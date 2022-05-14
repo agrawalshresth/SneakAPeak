@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Hurricane&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hurricane&family=Roboto+Slab:wght@300&display=swap");
+
+div.men-title {
+  font-family: "Hurricane", sans-serif;
+  color: black;
+  font-size: 200 px;
+}
